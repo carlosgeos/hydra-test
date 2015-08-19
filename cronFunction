@@ -1,0 +1,5 @@
+python script.py > superFile
+git pull origin master
+git add .
+git commit -m "Again and again and again"
+git push origin master
